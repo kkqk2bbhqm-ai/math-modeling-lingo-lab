@@ -1,0 +1,10 @@
+lingo-optimization-demo/
+├── README.md                 # 项目说明（核心！简历展示用）
+├── src/                      # 源码文件夹，放所有 .lg4 LINGO文件
+│   ├── example4.lg4
+│   ├── example5.lg4
+│   ├── example6.lg4
+│   └── exercise_abs.lg4
+├── docs/                     # 文档（放知识点、截图、报错排查笔记）
+│   └── lingo_notes.md        # 就是你OneNote里总结的就业知识点
+└── .gitignore                # 忽略LINGO自动生成的临时文件
