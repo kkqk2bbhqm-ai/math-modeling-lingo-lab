@@ -1,2 +1,21 @@
 # math-modeling-lingo-lab
-LINGO optimization lab for mathematical modeling course, IoT Engineering. Contains LP, ILP, nonlinear programming, set and @FOR loop examples.中文意思：物联网工程，数学建模课程 LINGO 优化实验，包含线性规划、整数规划、非线性规划、集合与 @FOR 循环示例
+# math-modeling-lingo-lab
+> IoT Engineering | Mathematical Modeling Experiment
+
+LINGO optimization codes for mathematical modeling course.
+Covers linear programming, integer programming, nonlinear programming, set definition and `@FOR` loop.
+
+## Tasks
+1. Linear Programming
+2. Nonlinear Integer Programming
+3. Geometric optimization: minimal bounding square for right triangle
+4. Vector summation with LINGO SETS
+5. Nonlinear least squares minimization
+6. Pairwise distance calculation using `@FOR`
+
+## Folder Structure
+- `codes/` : All LINGO source files (*.lg4)
+- `screenshots/` : Running result screenshots
+
+## Note
+This is a course lab. The optimization theory can be applied to IoT sensor resource scheduling and allocation.
